@@ -1,8 +1,0 @@
-A afirmação de que investir em marketing para aumentar o tráfego pode levar a um aumento nas vendas é compatível 
-com os dados, pois existe uma correlação positiva muito forte (r ≈ 0,987).
-
-Porém, é importante destacar que correlação não significa causalidade. 
-Esses dados mostram uma forte associação entre visitantes e vendas, mas, sozinhos, 
-não provam que aumentar o tráfego necessariamente causará o aumento das vendas. 
-Outros fatores, como preço, promoções, qualidade dos produtos e taxa de conversão, 
-também podem influenciar.
