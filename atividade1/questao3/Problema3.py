@@ -28,10 +28,7 @@ print(f"\nCorrelação entre satisfação e tempo: {correlacao:.2f}")
 print(f"Covariância entre satisfação e tempo: {covariancia:.2f}")
 
 # Gráfico de dispersão
-plt.scatter(
-    dados["satisfacao"],
-    dados["tempo_tarefa_min"]
-)
+plt.scatter(dados["satisfacao"], dados["tempo_tarefa_min"])
 
 plt.xlabel("Satisfação")
 plt.ylabel("Tempo da tarefa (min)")
